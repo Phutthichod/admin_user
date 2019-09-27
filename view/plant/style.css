@@ -1,6 +1,6 @@
 .grid-item{
     display: grid;
-    grid-template-columns: 12fr 2fr;
+    grid-template-columns: 4fr 1fr;
 }
 .btn-add{
     margin-bottom: 10px;
